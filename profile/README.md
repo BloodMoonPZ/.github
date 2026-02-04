@@ -34,7 +34,7 @@ We run **dev**, **staging**, and **production** environments and put real time i
 
 *No investors, no sponsors—just us. We don’t earn money from this; every dollar and hour comes from the team.*
 
-<sub>Rough equivalent at current market rates (senior dev/DevOps ~$70–90/h, GM/ops ~$20–30/h): **~$80k/month**. For reference only.</sub>
+<sub>Rough equivalent at current market rates (senior dev/DevOps $70–90/h, GM/ops $20–30/h): **$80k/month**. For reference only.</sub>
 
 ---
 
